@@ -1,62 +1,18 @@
-### `npm start`
+Foodie Bot 🍽️
+Foodie Bot is an AI-powered chatbot designed to assist users in discovering delicious meals, restaurants, and recipes. It acts as a food companion, offering personalized recommendations based on user preferences, location, and dietary requirements. Whether you're looking for a quick meal, a fancy dinner spot, or a recipe to try at home, Foodie Bot has you covered!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Features
+Restaurant Recommendations: Get personalized restaurant suggestions based on your location, cuisine preferences, and budget.
+Recipe Finder: Discover new and exciting recipes, including step-by-step instructions, ingredient lists, and preparation times.
+Dietary Preferences: Customize your search based on dietary restrictions such as vegan, vegetarian, gluten-free, or specific allergens.
+Meal Planning: Suggests meal options for breakfast, lunch, and dinner, helping you plan your day’s meals effortlessly.
+Nearby Eateries: Uses geolocation to suggest nearby restaurants and food joints.
+Real-time Ratings & Reviews: Provides access to reviews and ratings to help you make informed decisions about where and what to eat.
+Multilingual Support: Interact with the bot in multiple languages, making it accessible to a global audience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+How It Works
+Start a Conversation: Users interact with Foodie Bot via a chat interface.
+Ask for Recommendations: Specify preferences like cuisine type (e.g., Italian, Chinese), meal type (e.g., breakfast, dinner), or location.
+Get Results: Foodie Bot provides tailored suggestions, complete with additional information such as distance, ratings, and price range.
+Discover Recipes: Ask for recipes, and Foodie Bot will fetch curated, easy-to-follow recipes for you to cook at home.
+Plan Meals: Ask Foodie Bot to plan your meals for the day or week based on your preferences.
